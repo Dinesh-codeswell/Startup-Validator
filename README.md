@@ -90,9 +90,9 @@ InnovateHub is a comprehensive AI-powered platform designed to help entrepreneur
    cp .env.example .env.local
 Fill in your Supabase credentials and other required environment variables.
 
-6. **Start the development server**
+5. **Start the development server**
 npm run dev
-7. Open your browser Navigate to http://localhost:5173 to see the application.
+6. Open your browser Navigate to http://localhost:5173 to see the application.
 
 ## Key Features Overview
 - Authentication System
